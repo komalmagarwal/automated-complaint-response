@@ -7,7 +7,7 @@ intervention.
 The agent identifies the client ID from incoming complaint 
 communications, retrieves the relevant stock balance from the 
 exchange's system, generates an accurate personalised response, 
-and dispatches it — all autonomously. The remaining 20% of 
+and dispatches it - all autonomously. The remaining 20% of 
 complex or edge-case complaints are routed to the human team.
 
 ## Impact
